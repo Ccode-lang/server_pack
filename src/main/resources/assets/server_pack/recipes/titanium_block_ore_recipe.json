@@ -1,0 +1,13 @@
+{
+  "group": "server_pack",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "server_pack:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "server_pack:titanium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "server_pack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "1": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "2": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "3": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "4": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "5": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "6": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "7": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "8": {
+      "item": "server_pack:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "server_pack:titanium_block",
+    "count": 1
+  }
+}

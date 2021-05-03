@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "server_pack:blocks/titanium",
+    "particle": "server_pack:blocks/titanium"
+  }
+}

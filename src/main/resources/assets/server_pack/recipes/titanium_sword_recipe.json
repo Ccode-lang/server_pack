@@ -1,0 +1,24 @@
+{
+  "group": "server_pack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "1": {
+      "item": "server_pack:titanium_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "server_pack:titanium_sword",
+    "count": 1
+  }
+}

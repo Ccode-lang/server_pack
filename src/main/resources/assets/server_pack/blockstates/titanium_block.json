@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "server_pack:titanium_block"
+    }
+  }
+}
